@@ -23,7 +23,7 @@ if label == "NEGATIVE" and score > 0.9:
     smtp_host = "smtp.mailtrap.io"
     smtp_port = 587
     username = "e197b6106f8d13"  # <-- replace
-    password = "5ed8934fbdff17"  # <-- replace
+    password = "5ed8**********"  # <-- replace
     
     from_email = "alert@example.com"
     to_email = "you@example.com"
